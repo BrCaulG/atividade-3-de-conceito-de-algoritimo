@@ -35,7 +35,7 @@ programa {
       escreva("Nove")
       pare
       caso 10:
-      escreva("10")
+      escreva("dez")
       pare
       caso contrario:
       escreva("numero invalido")
